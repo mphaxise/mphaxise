@@ -1,10 +1,12 @@
 # Praneet Koppula
 
-**AI design experiments for products, tools, and agent workflows.**
+**AI design experiments for expert engineering tools, products, and agent workflows.**
 
-I am a product design and UX leader based in San Francisco. I use small, working experiments to explore how people understand, direct, and evaluate AI systems - especially when the work is complex, consequential, or still taking shape.
+I am a product design and UX leader based in San Francisco. I know how to make expert-level engineering tools intuitive without flattening the complexity that makes them powerful. I use small, working experiments to explore how people understand, direct, and evaluate AI systems, especially when the work is complex, consequential, or still taking shape.
 
-My background spans product design, UX research, service design, and design leadership. Here, I am interested in making design judgment more visible, testable, and useful inside the tools that build software.
+My background spans product design, UX research, service design, and design leadership. Over a decade at MathWorks, I progressed from senior IC to UX leader across expert engineering workflows. I also led the UX vision for a model-based engineering AI assistant whose concepts were tested with customers through user interviews and validation tests.
+
+Here, I stay hands-on through prototypes, research, critique, and agent-assisted implementation workflows. I am interested in making design judgment more visible, testable, and useful inside the tools that build software.
 
 ## What I am exploring
 
@@ -22,7 +24,7 @@ My background spans product design, UX research, service design, and design lead
 
 ## Work with me
 
-I help technical founders turn consequential, still-forming ideas into product directions customers can understand, test, and trust. I am available for focused product and UX engagements, fractional leadership, and design review.
+I help technical founders turn consequential, still-forming ideas into product directions customers can understand, test, and trust. I work as a player-coach: close to prototypes, research, critique, and implementation details while bringing senior product and organizational judgment. I am available for focused product and UX engagements, fractional leadership, and design review.
 
 **San Francisco | Bay Area in person + U.S. remote**
 
