@@ -21,7 +21,6 @@ My GitHub contains working experiments in agent UX, AI-assisted product developm
 - **[Design Skill Pack for AI Agent Coding Platforms](https://github.com/mphaxise/design-skill-pack-for-ai-agent-coding-platforms)** — Experiments in giving coding agents stronger UX, product-discovery, and research practices.
 - **[AI Agent UX Research Platform](https://github.com/mphaxise/ai-agent-ux-research-platform)** — Research and design probes into UX validation, agent-experience observability, evidence calibration, and human-review boundaries.
 - **[Awesome Agent UX Research](https://github.com/mphaxise/awesome-agent-ux-research)** — A curated bridge between agent products, UX research, human–AI interaction, and practical evaluation.
-- **[GitHub PR Map](https://github.com/mphaxise/gh-pr-map)** — A small working tool that turns repository contribution data into an interactive geographic view.
 
 ## How I work
 
